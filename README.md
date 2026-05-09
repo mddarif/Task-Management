@@ -14,7 +14,7 @@ A full stack Task Management application developed using:
 - Delete Task
 - Modern UI Design
 
-## Technologies Used
+## Technologies Used 
 
 ### Frontend
 - React.js
